@@ -2,7 +2,7 @@
 
 
 ## Running Locally
-Make sure you have Node.js and MongoDB installed.
+Make sure you have Node.js installed.
 ```
 git clonehttps://github.com/rsharma0011/Express-App-Using-TS-Decorator.git # or clone your own fork
 cd Express-App-Using-TS-Decorator
