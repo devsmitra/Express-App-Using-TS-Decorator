@@ -1,0 +1,21 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc":"tsc",
+    "start":"node dist/server.js",
+    "serve":"tsc & npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
